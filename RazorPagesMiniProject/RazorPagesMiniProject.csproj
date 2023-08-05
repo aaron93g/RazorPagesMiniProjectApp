@@ -7,6 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Reference Include="DemoLibrary">
+      <HintPath>DemoLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="PersonnelAppLibrary">
       <HintPath>PersonnelAppLibrary.dll</HintPath>
     </Reference>
